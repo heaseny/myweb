@@ -1,0 +1,15 @@
+#users {
+position: absolute;
+color: red;
+width: 150px;
+left: 0px;
+bottom: 0;
+border-right:1px solid #000;
+}
+#right {
+position: absolute;
+color:green;
+left: 160px;
+bottom:0;
+width: 600px;
+}
